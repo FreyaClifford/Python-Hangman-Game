@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="bk5SLmR57jWqJN4PriBc">
+    <mxGraphModel dx="946" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-2" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="Start" vertex="1">
+          <mxGeometry height="40" width="78" x="362" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-23" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontSize=11;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="&amp;nbsp;display number of letters and guesses remaining" vertex="1">
+          <mxGeometry height="70" width="119.5" x="340.25" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-6" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="choose a word" vertex="1">
+          <mxGeometry height="70" width="80" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-12" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-14" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="430" />
+              <mxPoint x="400" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-17" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="438" y="331" />
+              <mxPoint x="420" y="331" />
+              <mxPoint x="420" y="440" />
+            </Array>
+            <mxPoint x="370" y="330" as="sourcePoint" />
+            <mxPoint x="530" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="ask user for a&amp;nbsp;&lt;div&gt;letter&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="119.5" x="340.5" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-13" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="440" />
+              <mxPoint x="160" y="340" />
+            </Array>
+            <mxPoint x="170" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-31" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="letter is in the word" vertex="1">
+          <mxGeometry height="60" width="80" x="180" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="466" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=34;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="letter has already been guessed" vertex="1">
+          <mxGeometry height="40" width="120" x="330" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-18" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="440" />
+              <mxPoint x="640" y="340" />
+            </Array>
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-32" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="letter is not in the word" vertex="1">
+          <mxGeometry height="60" width="80" x="540" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="player guesses full word" vertex="1">
+          <mxGeometry height="60" width="80" x="180" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="player runs out of guesses" vertex="1">
+          <mxGeometry height="60" width="80" x="540" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-34" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FAD9D5;strokeColor=#D0CEE2;fontColor=#1A1A1A;" value="end" vertex="1">
+          <mxGeometry height="40" width="91" x="362" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-35" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IEGI3Uz_xA6VjkTT-nsK-36" edge="1" parent="1" source="IEGI3Uz_xA6VjkTT-nsK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;strokeColor=#09555B;fontColor=default;" target="IEGI3Uz_xA6VjkTT-nsK-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
